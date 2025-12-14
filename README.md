@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C, C++, Java, Spring boot** 
 
-- 💬 Ask me about **HTML5, CSS and Java and PHP**
+- 💬 Ask me about **HTML5, CSS, Java and PHP**
 
 - 📫 How to reach me **tatendakoki02@gmail.com**
 

@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Tatenda Koki</h1>
-<h3 align="center">A passionate developer and student Software Engineer</h3>
+<h3 align="center">A passionate developer and student Software Engineer with the Zimbabwe Open University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatenda-code&label=Profile%20views&color=0e75b6&style=flat" alt="tatenda-code" /> </p>
 
-- 🌱 I’m currently learning **C, Java, Spring boot,**
+- 🌱 I’m currently learning **C, C++, Java, Spring boot** 
 
-- 💬 Ask me about **HTML5, CSS and C.**
+- 💬 Ask me about **HTML5, CSS and Java,**,DSA 
 
 - 📫 How to reach me **tatendakoki02@gmail.com**
 
